@@ -6,7 +6,7 @@
   Hajee Mohammad Danesh Science and Technology University,Dinajpur-5200.
 </h3>
 <h3 align="center">
-<b></b>Project Name: Mental Health Support System<b></b>
+<b></b>Project Name: Online Cab Booking System<b></b>
 </h3>
 
 <h3 align="center">
@@ -19,7 +19,7 @@
 <br>
 <h1 align="center">Submitted By</h1>
 
- <p align="center">Fahim Hossain Dipo<br>Student ID: 2102004<br>Level: 3 Semester: I<br>Department of Computer Science and Engineering</p>
+ <p align="center">Raghubir Chaudhary<br>Student ID: 2102064<br>Level: 3 Semester: I<br>Department of Computer Science and Engineering</p>
  <br>
 
 <h1 align="center">Submitted To</h1>
