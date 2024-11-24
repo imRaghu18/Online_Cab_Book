@@ -29,6 +29,20 @@
 
 <br><br><br>
 
+## Contents
+- [Abstract](#abstract)
+- [Introduction](#introduction)
+- [Project Vision and Planning](#project-vision-and-planning)
+- [User Requirements and System Requirements](#user-requirements-and-system-requirements)
+- [Design and Architecture](#design-and-architecture)
+- [Development((Iterations/Sprints)](#development-iterations-sprints)
+- [Testing and Feedback](#testing-and-feedback)
+- [Deployment](#deployment)
+- [Maintenance and Continuous Improvement](#maintenance-and-continuous-improvement)
+- [Key Benefits of Using Agile for This Project](#key-benefits-of-using-agile-for-this-project)
+- [Conclusion](#conclusion)
+- [References](#references)
+
 
 # Online Cab Booking System
 
@@ -41,6 +55,14 @@ The **Online Cab Booking System** is a digital platform designed to streamline t
 The demand for efficient and reliable transportation has led to the development of an Online Cab Booking System. This system enables users to book rides via a mobile or web platform while providing drivers with access to potential customers. By integrating advanced features like GPS tracking, automated fare calculation, and cashless payments, the system enhances convenience and efficiency for both users and drivers.
 
 ---
+
+![cab-booking-process](https://github.com/user-attachments/assets/9f9a5d21-aada-4aaf-8032-51a7cb37c447)
+
+
+![ER-Diagram](https://github.com/user-attachments/assets/5a676bc0-9287-4248-a3bf-26a4c069f973)
+## Fig: ER-Diagram
+
+
 
 ## Project Vision and Planning
 
