@@ -56,11 +56,13 @@ The demand for efficient and reliable transportation has led to the development 
 
 ---
 
-![cab-booking-process](https://github.com/user-attachments/assets/9f9a5d21-aada-4aaf-8032-51a7cb37c447)
+![cab-booking-process](https://github.com/user-attachments/assets/d7368e3b-5348-4224-8793-bd3795b7a652)
+## Fig-1:Flow Diagram for Online Cab Booking System
+
 
 
 ![ER-Diagram](https://github.com/user-attachments/assets/5a676bc0-9287-4248-a3bf-26a4c069f973)
-## Fig: ER-Diagram
+## Fig-2: ER-Diagram for Online Cab Booking System
 
 
 
